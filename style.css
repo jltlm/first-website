@@ -1,0 +1,11 @@
+body, html {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body {
+    background-color: rgb(195, 195, 195);
+    border-left: 50px solid darkgrey;
+    border-right: 50px solid darkgrey;
+    padding: 10px;
+}
